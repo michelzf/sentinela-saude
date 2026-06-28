@@ -6,6 +6,6 @@ matplotlib>=3.8.0
 nibabel>=5.2.0
 scikit-image>=0.22.0
 scikit-learn>=1.4.0
-antspyx>=0.5.0
+antspyx>=0.6.3
 # Necessário só para register_elastix.py (alternativa estável no Windows ao ANTs SyN).
 itk-elastix>=0.20.0
