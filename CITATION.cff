@@ -20,7 +20,7 @@ repository-code: "https://github.com/michelzf/neurosint"
 url: "https://github.com/michelzf/neurosint"
 license: AGPL-3.0-or-later
 version: "1.0.0"
-date-released: "2026-06-28"
+date-released: "2026-06-30"
 keywords:
   - inteligência artificial
   - large language models
